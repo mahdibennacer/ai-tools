@@ -104,5 +104,6 @@ writeai.com)**: An AI writing assistant that helps generate ideas and text for y
 98. **[SummarizeBot](https://summarizebot.com)**: Summarize articles and texts with AI to extract essential information. 📝🔍  
 99. **[Copy Dash](https://copydash.com)**: Efficiently create marketing content with AI-generated suggestions. 📈🖊️  
 100. **[Writer.com](https://writer.com)**: Enhance your writing process with brand voice consistency and style checks. 🌟✍️  
+101. **[Auferet](https://auferet.com)**: AI game master for solo text adventures and tabletop RPGs, with long-term story memory and your own uploaded lore. 🎲
 
 Feel free to modify any entries or let me know if you need additional adjustments!
